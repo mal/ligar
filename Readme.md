@@ -14,7 +14,7 @@ The result here would be to try and open `tricksy spaces.txt` which at best isn'
 
 ## Download
 
-_Binaries coming soon._
+[Win7 x64](http://mal.github.io/ligar/ligar.exe)
 
 ## Install
 
